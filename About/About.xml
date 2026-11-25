@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>[OMW] Mull It Over (Mullet Over)</name>
+  <packageId>oldmanwhistler.MullItOver</packageId>
+  <author>oldmanwhistler</author>
+  <description>Pawns may head to an Ideology Styling Station for a random haircut instead of suffering a mental break.</description>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Ideology</packageId>
+      <displayName>Ideology</displayName>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+  </loadAfter>
+</ModMetaData>

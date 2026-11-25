@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OMW_MulletOver_SettingsCategory>[OMW] Mull It Over</OMW_MulletOver_SettingsCategory>
+  <OMW_MulletOver_MentalBreaks>Mental breaks</OMW_MulletOver_MentalBreaks>
+  <OMW_MulletOver_HairStyles>Hair styles</OMW_MulletOver_HairStyles>
+  <OMW_MulletOver_Debug>Debug</OMW_MulletOver_Debug>
+  <OMW_MulletOver_ChanceDescription>The chance that a specific mental break will trigger a haircut instead. The chance is checked only when the actual mental break is about to start, and only when a styling station is available on map. If the roll fails, or no suitable station is available, the normal mental break proceeds. Configure hair styles to be part of the mullet pool for each mental break intensity.</OMW_MulletOver_ChanceDescription>
+  <OMW_MulletOver_Reset>Reset to defaults</OMW_MulletOver_Reset>
+  <OMW_MulletOver_ExportXml>Export to XML</OMW_MulletOver_ExportXml>
+  <OMW_MulletOver_ExportSuccess>Exported hairstyle defaults to {0}</OMW_MulletOver_ExportSuccess>
+  <OMW_MulletOver_ExportFailed>Could not export hairstyle defaults: {0}</OMW_MulletOver_ExportFailed>
+  <OMW_MulletOver_DebugLogging>Enable debug logging</OMW_MulletOver_DebugLogging>
+  <OMW_MulletOver_DebugDescription>Log each Mullet Over check, its configured percentage, the result, and the reason.</OMW_MulletOver_DebugDescription>
+  <OMW_MulletOver_DebugStarted>{PAWN} is heading for a haircut.</OMW_MulletOver_DebugStarted>
+  <OMW_MulletOver_DebugFailed>Could not start the haircut: {0}</OMW_MulletOver_DebugFailed>
+  <OMW_MulletOver_StateInspect>{PAWN} is mulling over a new hairstyle.</OMW_MulletOver_StateInspect>
+  <OMW_MulletOver_Reason>They decided to mull over a new hairstyle instead.</OMW_MulletOver_Reason>
+  <OMW_MulletOver_Off>Off</OMW_MulletOver_Off>
+  <OMW_MulletOver_Minor>Minor</OMW_MulletOver_Minor>
+  <OMW_MulletOver_Major>Major</OMW_MulletOver_Major>
+  <OMW_MulletOver_Extreme>Extreme</OMW_MulletOver_Extreme>
+</LanguageData>

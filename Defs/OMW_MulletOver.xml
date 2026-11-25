@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <JobDef>
+    <defName>Mullet_Over</defName>
+    <driverClass>OMWMulletOver.JobDriver_MulletOver</driverClass>
+    <reportString>changing their hairstyle at TargetA.</reportString>
+  </JobDef>
+
+  <MentalStateDef>
+    <defName>Mullet_Over</defName>
+    <label>mullet over</label>
+    <stateClass>OMWMulletOver.MentalState_MulletOver</stateClass>
+    <category>Misc</category>
+    <stopsJobs>false</stopsJobs>
+    <minTicksBeforeRecovery>1200</minTicksBeforeRecovery>
+    <maxTicksBeforeRecovery>1200</maxTicksBeforeRecovery>
+    <recoveryMtbDays>999</recoveryMtbDays>
+    <moodRecoveryThought>Catharsis</moodRecoveryThought>
+    <baseInspectLine>OMW_MulletOver_StateInspect</baseInspectLine>
+  </MentalStateDef>
+</Defs>

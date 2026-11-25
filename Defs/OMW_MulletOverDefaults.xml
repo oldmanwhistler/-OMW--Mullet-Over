@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Bang03</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Bowl</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Chigur</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Cockrell</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Coolmullet</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Dragon</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Gorgon</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Krusty</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Mull</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Mullet</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_MulletDIY</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Nuclear</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Peasant</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_PeasantB</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Ponasenkov</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_RubyRhod</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Slick</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Swayze</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Tail</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_TigerK</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_Wokeup</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="absolute.legends.hair">
+    <defName>ALH_prodigy</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>DoubleTuft</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Elder</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Firestarter</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Ghoul_Furious</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Ghoul_Hungry</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Ghoul_Ravenous</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Ghoul_Twisted</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Ghoul_Vengeful</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Ghoul_Warped</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Ghoul_Wicked</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>LargeTuft</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>LongMess</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>LongOily</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Mohawk</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef MayRequire="ludeon.rimworld.anomaly">
+    <defName>Parted</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Rookie</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Scatman</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Shaved</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Spikes</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Sticky</defName>
+    <intensity>Minor</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Tuft</defName>
+    <intensity>Major</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+  <OMWMulletOver.OMW_MulletOverDef>
+    <defName>Warden</defName>
+    <intensity>Extreme</intensity>
+  </OMWMulletOver.OMW_MulletOverDef>
+</Defs>
