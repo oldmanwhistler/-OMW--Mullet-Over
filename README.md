@@ -1,4 +1,4 @@
-# [OMW] Mull It Over (Mullet Over)
+# [OMW] Mullet Over (Mull It Over)
 
 - EN: Replace a mental break with a bad haircut.
 - ZH: 
@@ -28,11 +28,13 @@ BetMGM's "mullet over" ad campaign.
 
 ## Supported Mods
 
-These aren't required but they unlock additional content.
+These aren't required but they will be automatically configured to be use if installed.
+
+- [Absolute Legends: Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2195744587) - I can't recommend this enough because of all of the mullets it adds.
 
 ## Technical Details
 
-- Safe to add to save. Safe to remove from a save if there aren't any pawns experiencing the "Mull It Over" mental break.
+- Safe to add to save. Safe to remove from a save when there aren't any pawns giving themself a "Mull It Over" haircut.
 - Tested with [FIXME mods](FIXME).
 
 ## Language Support

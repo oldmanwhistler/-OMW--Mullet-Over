@@ -2,17 +2,30 @@
 <LanguageData>
   <OMW_MulletOver_SettingsCategory>[OMW] Mull It Over</OMW_MulletOver_SettingsCategory>
   <OMW_MulletOver_MentalBreaks>Mental breaks</OMW_MulletOver_MentalBreaks>
-  <OMW_MulletOver_HairStyles>Hair styles</OMW_MulletOver_HairStyles>
+  <OMW_MulletOver_HairStyles>Hair Trigger</OMW_MulletOver_HairStyles>
+  <OMW_MulletOver_Hairarchy>Hairarchy</OMW_MulletOver_Hairarchy>
+  <OMW_MulletOver_DyeHard>Dye Hard</OMW_MulletOver_DyeHard>
   <OMW_MulletOver_Debug>Debug</OMW_MulletOver_Debug>
   <OMW_MulletOver_ChanceDescription>The chance that a specific mental break will trigger a haircut instead. The chance is checked only when the actual mental break is about to start, and only when a styling station is available on map. If the roll fails, or no suitable station is available, the normal mental break proceeds. Configure hair styles to be part of the mullet pool for each mental break intensity.</OMW_MulletOver_ChanceDescription>
+  <OMW_MulletOver_BreakFilterNeedsMap>Load a colony and select a map to show breaks that pass BreakCanOccur on a generated adult colonist.</OMW_MulletOver_BreakFilterNeedsMap>
   <OMW_MulletOver_Reset>Reset to defaults</OMW_MulletOver_Reset>
   <OMW_MulletOver_ExportXml>Export to XML</OMW_MulletOver_ExportXml>
   <OMW_MulletOver_ExportSuccess>Exported hairstyle defaults to {0}</OMW_MulletOver_ExportSuccess>
   <OMW_MulletOver_ExportFailed>Could not export hairstyle defaults: {0}</OMW_MulletOver_ExportFailed>
+  <OMW_MulletOver_ExportToDef>Export to Def</OMW_MulletOver_ExportToDef>
+  <OMW_MulletOver_HairColorsExportSuccess>Exported disabled hair colors to {0}</OMW_MulletOver_HairColorsExportSuccess>
+  <OMW_MulletOver_HairColorsExportFailed>Could not export disabled hair colors: {0}</OMW_MulletOver_HairColorsExportFailed>
+  <OMW_MulletOver_Disabled>Disabled</OMW_MulletOver_Disabled>
   <OMW_MulletOver_DebugLogging>Enable debug logging</OMW_MulletOver_DebugLogging>
   <OMW_MulletOver_DebugDescription>Log each Mullet Over check, its configured percentage, the result, and the reason.</OMW_MulletOver_DebugDescription>
   <OMW_MulletOver_DebugStarted>{PAWN} is heading for a haircut.</OMW_MulletOver_DebugStarted>
   <OMW_MulletOver_DebugFailed>Could not start the haircut: {0}</OMW_MulletOver_DebugFailed>
+  <OMW_MulletOver_DebugSetupNoMap>This debug action requires a loaded map.</OMW_MulletOver_DebugSetupNoMap>
+  <OMW_MulletOver_DebugSetupNoEligibleBreaks>No MentalBreakDef passed BreakCanOccur on the baseline generated adult colonist.</OMW_MulletOver_DebugSetupNoEligibleBreaks>
+  <OMW_MulletOver_DebugSetupNoStations>Not enough clear space near the clicked cell to place one styling station per eligible mental break.</OMW_MulletOver_DebugSetupNoStations>
+  <OMW_MulletOver_DebugSetupNoDyeCells>Could not find three clear nearby cells for full dye stacks.</OMW_MulletOver_DebugSetupNoDyeCells>
+  <OMW_MulletOver_DebugSetupFailed>Could not generate the debug test colonists. See Player.log for details.</OMW_MulletOver_DebugSetupFailed>
+  <OMW_MulletOver_DebugSetupSuccess>Spawned {0} test colonists. Their named mental breaks will be attempted in 5 seconds.</OMW_MulletOver_DebugSetupSuccess>
   <OMW_MulletOver_StateInspect>{PAWN} is mulling over a new hairstyle.</OMW_MulletOver_StateInspect>
   <OMW_MulletOver_Reason>They decided to mull over a new hairstyle instead.</OMW_MulletOver_Reason>
   <OMW_MulletOver_Off>Off</OMW_MulletOver_Off>

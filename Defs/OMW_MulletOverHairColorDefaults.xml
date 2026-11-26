@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>DarkBlack</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>DarkSaturatedReddish</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef MayRequire="ludeon.rimworld.ideology">
+    <defName>LightGrey</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>MidBlack</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>PitchBlack</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_BrownWood</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_Cream</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_Limestone</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_Marble</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_Mustard</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_Orange</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_Sandstone</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+  <OMWMulletOver.OMW_MulletOverHairColorDef>
+    <defName>Structure_YellowPastel</defName>
+  </OMWMulletOver.OMW_MulletOverHairColorDef>
+</Defs>

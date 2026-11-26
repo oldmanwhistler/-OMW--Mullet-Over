@@ -1,4 +1,5 @@
 /.atlas
 /ArtSources
-/Assemblies
+/Assemblies/**
+/Source/obj/**
 README.md.bbcode
